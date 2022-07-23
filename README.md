@@ -11,4 +11,5 @@ RPC_URL=https://rinkeby.infura.io/v3/f1d37d349bbf483f9e6a2bbe7ef73cc4
 ######################################################################
 
 CONTRACT ADDRESS: 0x7242A53F97EFed86E0A9D1Ec61D36501541d350F
+
 NETWORK: RINKEBY
